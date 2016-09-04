@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[beaugoes]]></title>
         <description><![CDATA[beaugoes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beaugoes/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 01 Sep 2016 19:20:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/beaugoes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Treehouse Chocolate's Four Drinking Chocolates]]></title>
+            <description><![CDATA[<article><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/treehouse-chocolate-portland-drinking-chocolate</link>
+            <guid isPermaLink="false">bb932efd-8240-4080-ac82-d3048d0e77ab</guid>
+            <pubDate>Thu, 01 Sep 2016 19:20:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 Gadgets That'll Actually Get You Excited to Work Out]]></title>
             <description><![CDATA[<article><h1>7 Gadgets That'll Actually Get You Excited to Work Out</h1><p>Gadgets and devices that make working out more enjoyable, including games, music players, and muscle trackers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed18c54aed57db2debfacd2f488512d1a298fb17.jpg"></article>]]></description>
