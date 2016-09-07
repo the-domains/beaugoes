@@ -1,0 +1,28 @@
+typography_spectrum: 0.7272618746827095
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.5261454584516998
+  lightness: 0.7386955557263069
+  saturation: 0.6900769960972679
+  rhythmicContrast: 0.6154917039514707
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.8210744914444053
+author:
+  name: ''
+  url: ''
+  email: ''
+name: beaugoes
+navigation:
+  - name: Me
+    url: 'http://beaugoes.nl'
+    type: external
+title: 'geeky for '
